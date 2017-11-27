@@ -1,0 +1,2 @@
+C:\Users\31401\Desktop\files\遥感数据库技术\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\31401\Desktop\files\遥感数据库技术\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
